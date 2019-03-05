@@ -13,6 +13,6 @@ end
 def third_element(ary)
  ary[2]
 end
-def third_element(ary)
- ary[2]
+def last_element(ary)
+ ary[-1]
 end
