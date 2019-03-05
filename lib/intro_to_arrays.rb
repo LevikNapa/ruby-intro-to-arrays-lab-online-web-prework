@@ -16,6 +16,6 @@ end
 def last_element(ary)
  ary[-1]
 end
-def last_element(ary)
- ary[-1]
+def first_element_with_array_methods(ary)
+ ary
 end
