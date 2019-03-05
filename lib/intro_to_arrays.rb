@@ -10,3 +10,6 @@ end
 def first_element(ary)
  ary[0]
 end
+def first_element(ary)
+ ary[0]
+end
