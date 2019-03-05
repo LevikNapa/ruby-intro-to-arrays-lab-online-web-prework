@@ -13,3 +13,6 @@ end
 def third_element(ary)
  ary[2]
 end
+def third_element(ary)
+ ary[2]
+end
