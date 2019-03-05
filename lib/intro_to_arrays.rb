@@ -10,6 +10,6 @@ end
 def first_element(ary)
  ary[0]
 end
-def first_element(ary)
- ary[0]
+def third_element(ary)
+ ary[2]
 end
